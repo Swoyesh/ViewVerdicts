@@ -1,2 +1,2 @@
 # ViewVerdicts
-Online Movies/Series review system. Where your opinion matters the most!!
+An online Movies/Series review system, where your opinion matters the most!!
